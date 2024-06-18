@@ -17,6 +17,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   min-height: 100vh;
 }
 
@@ -107,6 +108,7 @@ body {
 .result span {
   text-align: end;
   margin-right: 20px;
+  font-size: 30px;
 }
 
 .nominal .item {
