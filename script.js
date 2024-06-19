@@ -65,7 +65,7 @@ function bersihkanHasil() {
 
 function hitung() {
     if (operator && inputSaatIni && inputSebelumnya) {
-        hasil = "I LOVE YOU 💖, XIXIXI";
+        hasil = "GOOD NIGHT 🌜, XIXIXI";
         tampilanSoal.textContent = `${inputSebelumnya} ${operator} ${inputSaatIni} =`;
         perbaruiTampilan(hasil);
         inputSaatIni = '';
